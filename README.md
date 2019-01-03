@@ -11,5 +11,5 @@ websocket实现一个简易聊天室
 
 wsServer.js为服务端脚本 在git bash中采用 node wsServer.js <br>
 
-###实现效果
-![preview]()
+### 实现效果
+![preview](img/chart.png)
