@@ -19,8 +19,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/useSocket/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1102">
-              <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+            <state relative-caret-position="415">
+              <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -30,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/useSocket/wsServer.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+              <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -54,8 +64,8 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/wsServer.js" />
-        <option value="$PROJECT_DIR$/useSocket/index.html" />
         <option value="$PROJECT_DIR$/useSocket/wsServer.js" />
+        <option value="$PROJECT_DIR$/useSocket/index.html" />
       </list>
     </option>
   </component>
@@ -179,12 +189,12 @@
       <option name="presentableId" value="Default" />
       <updated>1546415737994</updated>
       <workItem from="1546415739140" duration="7956000" />
-      <workItem from="1546483929624" duration="1085000" />
+      <workItem from="1546483929624" duration="1937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9041000" />
+    <option name="totallyTimeSpent" value="9893000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="239" y="106" width="1461" height="1065" extended-state="0" />
@@ -273,15 +283,23 @@
     <entry file="file://$PROJECT_DIR$/useSocket/wsServer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="15" column="47" lean-forward="true" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <caret line="15" column="47" lean-forward="false" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/useSocket/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        <state relative-caret-position="415">
+          <caret line="35" column="6" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
           <folding />
         </state>
       </provider>
